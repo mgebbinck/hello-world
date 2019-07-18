@@ -1,4 +1,4 @@
 # hello-world
-Hello World tutorial
+Hello World tutor
 
 This is a github test
